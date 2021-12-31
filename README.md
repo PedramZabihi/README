@@ -1,4 +1,4 @@
-﻿Weather Web App
+# Weather Web App
 
 Video demo: https://youtu.be/n9mqDxJzVfA
 
@@ -24,11 +24,11 @@ The geolocation tool is from https://main.whoisxmlapi.com
 
 And the weather forecast is from openweathermap.org
 
-Let's talk code:
+### Let's talk code:
 
 Here's how to install requirements, the commands are given below:
 
-\``` bash
+``` bash
 
 sudo apt update
 
@@ -36,26 +36,26 @@ sudo apt install software-properties-common
 
 sudo apt install python3.7
 
-\```
+```
 
 
-\``` bash
+``` bash
 
-\# With PyPi
+# With PyPi
 
 sudo pip3.7 install -r requirements.txt
 
-\```
+```
 
 and then clone this repository and run it just by typing like:
 
-\``` bash
+``` bash
 
 python3.7 application.py
 
 this will run the Website on 0.0.0.0 at port 8585!
-
-\#### Functions:
+```
+### Functions:
 
 Let's look at application.py 
 
@@ -81,15 +81,15 @@ Which this template filter that can show you weather climate in some cute images
 
 
 
-\# There is another function called countdays:
+### There is another function called countdays:
 
 This little function can compare two datetimes and return it as minutes and seconds.
 
-\## Template:
+#### Template:
 
 In template there are 2 html files which layout.html is the basic layout of the main webpage and index.html is the one which shows the weather in some separated cards view!
 
 
 I couldn’t get through this course without the help of my dear friend Shayan Hallaji who has gone through it with me, so a lot of love to him.
 
-***This was CS50***
+## ***This was CS50***
