@@ -1,12 +1,12 @@
 # Weather Web App
 
-Video demo: https://youtu.be/n9mqDxJzVfA
+#### Video demo: https://youtu.be/n9mqDxJzVfA
 
-Description:
+#### Description:
 
 Hello CS50 people!
 
-My name is Pedram Zabihi and I attended CS50xIran in 2021 summer.
+My name is ***Pedram Zabihi*** and I attended CS50xIran in 2021 summer.
 
 The final project is a weather reporting app with five day forecast and it is written in Python.
 
@@ -20,9 +20,9 @@ The Python program includes multiple APIs for IP-Geolocation tools and the weath
 
 I grabbed icons for weather conditions from [www.iconfinder.com](http://www.iconfinder.com) API and more detailed ones can be added later if necessary.
 
-The geolocation tool is from https://main.whoisxmlapi.com
+The geolocation tool is from [main.whoisxmlapi.com](https://main.whoisxmlapi.com)
 
-And the weather forecast is from openweathermap.org
+And the weather forecast is from [openweathermap.org](https://openweathermap.org/)
 
 ### Let's talk code:
 
